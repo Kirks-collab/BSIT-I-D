@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class feetToInches{
+public class BAHENA_ACTIVITY_II.java{
 
 public static int feeToInches(int feet){
     return feet1*12;
